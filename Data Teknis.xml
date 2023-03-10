@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<dataTeknis>
+    <dataPelanggan>
+        <namaPelanggan>PT. Mandiri Bangun Makmur</namaPelanggan>
+        <jalan>Concerto Boulevard</jalan>
+        <alamat>Rukan Golf Island</alamat>
+        <cluster>Concerto</cluster>
+        <blok>Rukan Golf Island</blok>
+        <nomor>30</nomor>
+        <telepon>021-5155555</telepon>
+        <kodePos>12710</kodePos>
+        <kota>Jakarta Utara</kota>
+        <provinsi>DKI Jakarta</provinsi>
+        <jenisUsaha>Properti</jenisUsaha>
+        <lamaUsaha>10 tahun</lamaUsaha>
+        <kontak>Bpk. Alvin</kontak>
+        <alamatEmail>alvin2011@gmail.com</alamatEmail>
+        <noHp>081312347080</noHp>
+    </dataPelanggan>
+
+    <dataJaringan>
+        <vlan>406</vlan>
+        <ipAddress>202.165.44.50/29</ipAddress>
+        <portOnu>gpon_onu-1/3/5:13</portOnu>
+        <dnsPrimary>202.165.46.36</dnsPrimary>
+        <dnsSecondary>202.165.36.2</dnsSecondary>
+    </dataJaringan>
+
+    <dataLayanan>
+        <jenisLayanan>Dedicated</jenisLayanan>
+        <speed>100 Mbps</speed>
+        <iptv>3 STB</iptv>
+        <jenisPerangkat>Huawei</jenisPerangkat>
+    </dataLayanan>
+</dataTeknis>
